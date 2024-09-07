@@ -1,4 +1,9 @@
+<h2 align="center">
+Hi there, I'm <a href="" target="_blank" rel="noreferrer" >Yash Goyal</a> 👋
+</h3>
+
 # 💫 About Me:
+<img src="image1.webp">
 🔭 I’m currently working on Web Development and Programming<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning Backend Development
 
 
